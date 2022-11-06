@@ -1,5 +1,5 @@
 # Arduino-Based-Robots
-Arduino Based Robots | Line Follower Robot,Obstacle Controlled Robot and Bluetooth Controlled Robot | IITH Summer Research Internship Project 
+Arduino Based Robots | Line Follower Robot,Obstacle Controlled Robot and Bluetooth Controlled Robot by referring projects from roboindia
 
 # Line Follower Robot
 1) Working of a line follower robot is based on the IR
