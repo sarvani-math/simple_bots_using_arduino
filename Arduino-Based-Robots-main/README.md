@@ -16,8 +16,6 @@ as input and when sensor senses black surface, Arduino gets 0
 as input.
 5) IR sensor can be calibrated according to need of the user.
 
-![alt text](https://github.com/ka-raja-babu/Arduino-Based-Robot/blob/main/Line%20Follower%20Robot/Images/Line%20Follower%20Robot%201.jpeg?raw=true)
-![alt text](https://github.com/ka-raja-babu/Arduino-Based-Robot/blob/main/Line%20Follower%20Robot/Images/Line%20Follower%20Robot%202.jpeg?raw=true)
 
 # Obstacle Avoiding Robot
 1) Ultrasonic sensors measure the front distance, right
@@ -28,8 +26,7 @@ according to the code.
 backward, left and right according to code,to
 avoid obstacle
 
-![alt text](https://github.com/ka-raja-babu/Arduino-Based-Robot/blob/main/Obstacle%20Avoiding%20Robot/Images/Obstacle%20Avoiding%201.jpeg?raw=true)
-![alt text](https://github.com/ka-raja-babu/Arduino-Based-Robot/blob/main/Obstacle%20Avoiding%20Robot/Images/Obstacle%20Avoiding%202.jpeg?raw=true)
+
 
 # Bluetooth Controlled Robot
 1) It consists of a transmitter and a receiver section. The
@@ -47,5 +44,4 @@ Arduino code checks the commands received.
 controls the movements of the robot accordingly in forward,
 backward, right and left direction .
 
-![alt text](https://github.com/ka-raja-babu/Arduino-Based-Robot/blob/main/Bluetooth%20Controlled%20Robot/Images/Bluettoth_Controlled_1.jpeg?raw=true)
-![alt text](https://github.com/ka-raja-babu/Arduino-Based-Robot/blob/main/Bluetooth%20Controlled%20Robot/Images/Bluettoth_Controlled_3.jpeg?raw=true)
+
